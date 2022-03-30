@@ -1,7 +1,7 @@
 # Employee-Management-System
 
 ### Purpose
-A command-line application to manage a company's employee database, using Node.js, Inquirer, and MySQL.
+Create a command-line application to manage a company's employee database, using Node.js, Inquirer, and MySQL.
 
 ## User Story
 AS A business owner
@@ -28,11 +28,16 @@ WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 
 ## Video Walkthrough
+https://drive.google.com/file/d/1vT8TE1WvQTD0ZgNIoI_tY0JzHyOv048L/view
 
+## GitHub 
+https://github.com/Sdm1984/Employee-Management-System
 
 ## Screenshot
+<img src="./assets/images/Jackson5.png" alt= "Screenshot of Management System">
 
 ## Installation
+Install all packages and then run "node company.js" in integrated terminal (company.js file)
 
 Credits
 Node.js, Inquirer, and MySql
